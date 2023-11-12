@@ -1,0 +1,8 @@
+WIDTH = 480
+HEIGHT = 600
+
+GAME_TITLE = "Pacman"
+
+FPS = 30
+
+BLACK = [0, 0, 0]
